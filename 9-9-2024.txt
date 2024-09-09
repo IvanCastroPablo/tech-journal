@@ -1,0 +1,3 @@
+First journal intro. 
+
+Today we touch the matter of git, github and associated concepts.The teacher's name is Iosu.
