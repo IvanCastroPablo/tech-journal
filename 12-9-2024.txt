@@ -1,0 +1,43 @@
+New teacher, Juan, talking about AI. What's AI?
+
+He divides it in three layers: AI, Machine learning and Deep learning. 
+Let's focus in the first one.
+
+1950's from the start of the AI. 1980's since the start of the machine 
+learning. 2000's deep learning, taking advantage from the 
+computational advancements.
+
+Some fields of uselfulness of AI:
+
+Text processing, computational vision and image analysis, voice 
+assistance, selfdriving cars, searching engines, social networks, 
+marketing...
+
+What's a generative AI?
+
+An intelligence that it's able to create content in a similar way as 
+an human, such as text, images, music, or even automatised 
+translation.
+
+There are several examples of chatbots, or generative text AI, such as 
+chatgpt, cloude, Llama, Gemini and many others.
+
+In the field of image generation we have others like midjourney, 
+Stable Diffusion...
+
+In the same way, we have several companies that offer the same 
+techniques for voice and video generation.
+
+About prompting:
+
+Juan makes a clear difference between prompting an AI and asking a 
+search engine: while when using google the user tend to use sort 
+requests to get an answer, when prompting the ideal technique is the 
+opposite one.
+
+Also, when prompting it is important to make a distinction bewteen 
+context and question, and many new users of chatbots make the same 
+mistake of not knowing the difference among those two things. Being 
+specific is also desirable.
+
+
